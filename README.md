@@ -12,7 +12,7 @@ python manage.py runserver
 🏡   https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/home.JPG?raw=True
 
 # POST PAGE
-📮   https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/POST_PAGE.JPG?raw=True
+📮   [https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/POST_PAGE.JPG?raw=True](https://github.com/Ravichandran-J/DJANGO-BLOG/tree/main/BLOG-SCREENSHOTS?raw=true)
 
 # PROFILE PAGE
 👦🏼   https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/profile_page.JPG?raw=True
