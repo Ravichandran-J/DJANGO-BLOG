@@ -12,13 +12,12 @@ python manage.py runserver
 🏡   ![App Screenshot](https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/home.JPG?raw=Ture)
 
 # POST PAGE
-📮   [https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/POST_PAGE.JPG?raw=True](https://github.com/Ravichandran-J/DJANGO-BLOG/tree/main/BLOG-SCREENSHOTS?raw=true)
+📮   ![App Screenshot](https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/POST_PAGE.JPG?raw=True)
 
 # PROFILE PAGE
-👦🏼   https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/profile_page.JPG?raw=True
+👦🏼   ![App Screenshot](https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/profile_page.JPG?raw=True)
 
 # ABOUT PAGE
-❓    https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/about.JPG?raw=True
-
+❓   ![App Screenshot](https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/about.JPG?raw=True)
 # ADMIN PAGE
-🟢   https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/admin_page.JPG?raw=True
+🟢   ![App Screenshot](https://github.com/Ravichandran-J/DJANGO-BLOG/blob/main/BLOG-SCREENSHOTS/admin_page.JPG?raw=True)
